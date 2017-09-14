@@ -6,3 +6,5 @@ Angular 2 Getting Started Online Course
 * Data binding & Pipes
 * Interface, Lifecycle Hooks and Custom Pipes
 * Building nested Components
+* Services and Dependency Injection
+* Observable and Reactive Extension
