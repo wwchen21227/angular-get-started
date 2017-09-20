@@ -8,3 +8,4 @@ Angular 2 Getting Started Online Course
 * Building nested Components
 * Services and Dependency Injection
 * Observable and Reactive Extension
+* Navigation and Routing
